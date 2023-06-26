@@ -1,0 +1,9 @@
+[package]
+name = "cs_flash"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+win-streamshot = { git = "https://github.com/Lukas412/win-streamshot.git" }
+anyhow = "1.0.71"
+enigo = "0.1.2"
