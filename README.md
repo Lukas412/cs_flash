@@ -3,11 +3,23 @@
 This Project can be used to trigger external devices, \
 while you are currently flash banged in Counter Strike.
 
-This script presses the `f13` key, when a CSGO flashbang is detected.
+This script presses the `f13` key, when a CSGO flashbang is detected.!
 
 ## Installation
 
-The project can be installed with cargo.
+### Cargo
+
+You first need to install `cargo`.
+
+Cargo is a tool for conveniently accessing a lot of the rust functionality from the command line.
+
+It comes with the rust toolchain. \
+The rust toolchain can be downloaded and installed from here:
+[https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+
+### This Project
+
+The project can be directly installed with cargo.
 
     cargo install --git https://github.com/Lukas412/cs_flash.git
 
