@@ -3,6 +3,8 @@
 This Project can be used to trigger external devices, \
 while you are currently flash banged in Counter Strike.
 
+This script presses the `f13` key, when a CSGO flashbang is detected.
+
 ## Installation
 
 The project can be installed with cargo.
