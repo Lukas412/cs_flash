@@ -7,17 +7,17 @@ This script presses the `f13` key, when a CSGO flashbang is detected.!
 
 ## Installation
 
-### Cargo
+You can download the executable from the [Release Page](https://github.com/Lukas412/cs_flash/releases/latest).
 
-You first need to install `cargo`.
+### Building from Source
+
+You first need to install `cargo` itself.
 
 Cargo is a tool for conveniently accessing a lot of the rust functionality from the command line.
 
 It comes with the rust toolchain. \
 The rust toolchain can be downloaded and installed from here:
 [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
-
-### This Project
 
 The project can be directly installed with cargo.
 
