@@ -14,7 +14,7 @@ You can download the executable from the [Release Page](https://github.com/Lukas
 
 ### Building from Source
 
-You first need to install `cargo` itself.
+You first need to install `cargo`.
 
 Cargo is a tool for conveniently accessing a lot of the rust functionality from the command line.
 
